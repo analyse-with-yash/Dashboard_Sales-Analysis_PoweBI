@@ -41,4 +41,5 @@ Analyze customer purchasing patterns
 Enable data-driven decision-making
 
 📎 Project Link
+https://app.powerbi.com/links/fJAb2sk7H8?ctid=3a20be13-aef0-44c7-be0a-377c208f6a15&pbi_source=linkShare&bookmarkGuid=2f55302b-cf1f-4e0d-9219-b41cdb6849b4
 
